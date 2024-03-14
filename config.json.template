@@ -1,0 +1,20 @@
+{
+    "connectors":[
+        {
+            "connectorname":"jira",
+            "enabled": false,
+            "jira-email":"",
+            "jira-url":"https://ORG.atlassian.net",
+            "jira-api-token":""
+        },
+        {
+            "connectorname":"ms365",
+            "enabled": true,
+            "ms365-client-id":"",
+            "ms365-client-secret":"",
+            "ms365-tenant-id":""
+        }
+    ]
+
+}
+
